@@ -16,7 +16,7 @@
     + Truy cập vào sheet bạn để dữ liệu: chia cột dữ liệu rõ ràng
     + Xác định nội dung bạn thay đổi sẽ chuyển tiếp vào tele. Ví dụ tôi muốn khi thay đổi cột "state" nó sẽ update trạng thái tự động vào tele.
         ![Mô tả ảnh](./image/pic1.png)
-    + Thực hiện đoạn code để có thể chuyển đổi thông báo sang tele. Code tham khảo tại file ``/NotiTele.js/``. Bấm lưu file
+    + Thực hiện đoạn code để có thể chuyển đổi thông báo sang tele. Code tham khảo tại file [``Hướng dẫn code``](NotiTele.js). Bấm lưu file
     + Lưu ý: Để vào được mục script vui lòng truy cập như sau: Tiện ích -> App Script
 - ***Bước 3***: Cấp quyền trigger
     + Chạy run lần đầu để cho phép quyền với hàm **onEdit**
